@@ -1,6 +1,6 @@
 # React + Vite + Firebase
 
-duolibrasLogin/
+<code> duolibrasLogin/
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
@@ -22,6 +22,6 @@ duolibrasLogin/
     └── Routes/
         ├── AppNav.jsx
         ├── RetrievePassword.jsx
-        └── SignIn.jsx
+        └── SignIn.jsx </code>
 
 # This code only contains the three sections of a Login system.
